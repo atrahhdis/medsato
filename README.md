@@ -1,5 +1,4 @@
-# medsato
-a backup of the meditation safety toolbox
+# medsato - a backup of the meditation safety toolbox
 
 This is just an online backup of the following:
 
